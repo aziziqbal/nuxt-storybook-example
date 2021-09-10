@@ -30,5 +30,3 @@ npx nuxt storybook build
 ## License
 
 [MIT License](./LICENSE)
-
-Copyright (c)
